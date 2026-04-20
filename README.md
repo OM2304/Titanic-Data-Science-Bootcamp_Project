@@ -1,6 +1,5 @@
 # Titanic-Data-Science-Bootcamp_Project
 
-# Titanic Survival Prediction Project
 
 ## Project Description
 [cite_start]This project focuses on analyzing the historical Titanic dataset to predict whether a passenger would have survived the disaster[cite: 1]. [cite_start]By using data science techniques, we explore the factors—such as gender, age, and passenger class—that influenced the chances of survival[cite: 1]. [cite_start]The project follows the complete data science pipeline, from cleaning raw data to training a predictive model[cite: 1].
